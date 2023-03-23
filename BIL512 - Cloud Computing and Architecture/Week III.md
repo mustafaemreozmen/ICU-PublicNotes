@@ -1,3 +1,3 @@
 [[Cloud Computing and Architecture]]
 
-![[Week III-Cloud Computing Definitions.pdf]]
+![[Week III - Cloud Computing Definitions.pdf]]
